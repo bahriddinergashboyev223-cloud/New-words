@@ -1,0 +1,8 @@
+{
+  "appId": "uz.lugatlab.app",
+  "appName": "Lug'atLab",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

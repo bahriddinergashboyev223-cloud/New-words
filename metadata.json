@@ -1,0 +1,8 @@
+{
+  "name": "Lug'atLab — Ingliz-O'zbek So'z Yodlash",
+  "description": "Inglizcha va o'zbekcha lug'at bazasini kiritish, ko'rish hamda 4 variantli tasodifiy testlar orqali so'z yodlash ilovasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
